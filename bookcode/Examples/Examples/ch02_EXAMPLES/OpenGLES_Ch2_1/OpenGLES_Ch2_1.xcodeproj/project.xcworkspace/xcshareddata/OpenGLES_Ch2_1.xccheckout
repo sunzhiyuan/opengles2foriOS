@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B36087D0-444F-4F65-B756-209B8C8A5C55</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenGLES_Ch2_1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5EEC733FFD90F81EDFC7C0844E1F760BCA1A9F24</key>
+		<string>https://github.com/sunzhiyuan/opengles2foriOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bookcode/Examples/Examples/ch02_EXAMPLES/OpenGLES_Ch2_1/OpenGLES_Ch2_1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5EEC733FFD90F81EDFC7C0844E1F760BCA1A9F24</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunzhiyuan/opengles2foriOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5EEC733FFD90F81EDFC7C0844E1F760BCA1A9F24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5EEC733FFD90F81EDFC7C0844E1F760BCA1A9F24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opengles2foriOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
